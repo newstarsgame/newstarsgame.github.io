@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[{source:"/new_worlds",destination:"/new_worlds/WebGL/index.html"}],fallback:[]},"/_error":["static/chunks/pages/_error-d79168f986538ac0.js"],sortedPages:["/_app","/_error"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
